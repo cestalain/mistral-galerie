@@ -1,0 +1,123 @@
+{
+  "aquarelle": {
+    "divers": [
+      "Africain01.jpg",
+      "Ampoule.jpg",
+      "Automne2.jpg",
+      "Banc Plage.jpg",
+      "Barque.jpg",
+      "Boule.jpg",
+      "Buron.jpg",
+      "Cavaliers.jpg",
+      "Chemin du temple.jpg",
+      "Chemin_de_vie.jpg",
+      "Cheval.jpg",
+      "Coquelicots.jpg",
+      "CoucherDeSoleil01.jpg",
+      "CoucherDeSoleil02.jpg",
+      "CoucherDeSoleil03.jpg",
+      "DanseuseFlamenco.jpg",
+      "EL_Toro.jpg",
+      "Epi_de_ble.jpg",
+      "Faucheurs.jpg",
+      "Fourmi Christian.jpg",
+      "Hublot.jpg",
+      "Marche_africain.jpg",
+      "Meditation.jpg",
+      "Pecheur_a_pied.jpg",
+      "Portail.jpg",
+      "Quartet.jpg",
+      "Sapins_enneiges.jpg",
+      "Sieste_du_pecheur.jpg",
+      "Troupeau_de_moutons.jpg"
+    ],
+    "paysages": [
+      "Automne.jpg",
+      "Bouleau.jpg",
+      "Buron_Auvergne.jpg",
+      "Champ_de_lavande.jpg",
+      "Chemin Compostelle.jpg",
+      "Coquelicot.jpg",
+      "La_maison_dans_ la_prairie.jpg",
+      "Lac_Brume.jpg",
+      "Lac_Pastel.jpg",
+      "Maison_au_bord_de_la_riviere.jpg",
+      "Maison_vallee.jpg",
+      "MasProvencal.jpg",
+      "Mas_Provencal.jpg",
+      "Paturage auvergne.jpg",
+      "Paysage hiver.jpg",
+      "Paysage_desertique.jpg",
+      "Paysage_montagne.jpg",
+      "Paysage_sous_la_neige.jpg",
+      "Pont_Marmande.jpg",
+      "Provence.jpg",
+      "Reflection.jpg",
+      "Riviere.jpg",
+      "Riviere2.jpg",
+      "Scene d hiver.jpg",
+      "Scene d hiver2.jpg",
+      "Tournesols.jpg"
+    ],
+    "marine": [
+      "Bateau.jpg",
+      "Chalutier.jpg",
+      "Cote_de_Mer.jpg",
+      "Cote_rocheuse.jpg",
+      "La_Barque_Verte.jpg",
+      "La_Mer.jpg",
+      "La_dune.jpg",
+      "Lac bleu.jpg",
+      "Lac.jpg",
+      "Lac02.jpg",
+      "Marine01.jpg",
+      "Marine2018.jpg",
+      "Marine2_2018.jpg",
+      "Marine_3voiliers.jpg",
+      "Mer01.jpg",
+      "Phare.jpg",
+      "Phare_La_Flotte.jpg",
+      "Promenade plage.jpg",
+      "Voilier aquarium.jpg",
+      "Voiliers_1.jpg",
+      "Voiliers_2.jpg",
+      "zzz.jpg"
+    ],
+    "asiatique": [
+      "Barque_Vietnam .jpg",
+      "Chine01.jpg",
+      "Chine02.jpg",
+      "Chinoiserie03.jpg",
+      "Pecheuse.jpg",
+      "Pecheuse01.jpg",
+      "Pecheuse_barque.jpg",
+      "Viet_a_vélo.jpg"
+    ]
+  },
+  "petanque": {
+    "clubs": [
+      "clubs1.svg",
+      "clubs2.svg",
+      "clubs3.svg"
+    ],
+    "reglement": [
+      "reglement1.svg",
+      "reglement2.svg",
+      "reglement3.svg"
+    ],
+    "resultats": [
+      "resultats1.svg",
+      "resultats2.svg",
+      "resultats3.svg"
+    ]
+  },
+  "auvergne": {
+    "photos": [
+      "Pounti-1.jpg",
+      "Soupe_au_Fromage.jpg",
+      "bourriols.jpg",
+      "potee-auvergnate.jpg",
+      "truffade-1.jpg"
+    ]
+  }
+}
