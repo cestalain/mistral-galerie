@@ -1,16 +1,83 @@
-# React + Vite
+Les commandes GIT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Git est un ensemble de commandes indépendantes dont les principales sont :
 
-Currently, two official plugins are available:
+# crée un nouveau dépôt ;
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+git init​
 
-## React Compiler
+# clone un dépôt distant ;
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+git clone​
 
-## Expanding the ESLint configuration
+# ajoute le contenu du répertoire de travail dans la zone d’index pour le prochain commit ;
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+git add​
+
+git status​ montre les différents états des fichiers du répertoire de travail et de l’index ;
+
+git diff​ montre les différences ;
+
+# enregistre dans la base de données (le dépôt) un nouvel instantané avec le contenu des fichiers qui ont été indexés puis fait pointer la branche courante dessus ;
+
+git commit​
+
+# Lister toutes les branches locales
+
+git branch
+
+# Lister toutes les branches (locales + distantes)
+
+git branch -a
+
+# Voir la branche courante
+
+git branch --show-current
+
+# Voir les dernières commits sur chaque branche
+
+git branch -v
+
+# Supprimer une branche locale
+
+git branch -d nom_de_la_branche
+
+# permet de basculer de branche et d’en extraire le contenu dans le répertoire de travail ;
+
+git checkout
+
+# Créer une nouvelle branche ET se déplacer dessus (méthode la plus utilisée)
+
+git checkout -b
+
+# Créer seulement la branche (reste sur la branche actuelle)
+
+git branch nom_de_la_branche
+
+# Supprimer une branche déjà fusionnée (safe)
+
+git branch -d nom_de_la_branche
+
+# Forcer la suppression (même si non fusionnée)
+
+git branch -D nom_de_la_branche
+
+# Se placer sur la branche de destination (ex: main, develop)
+
+git checkout main
+
+# Fusionner la branche source dans la branche courante
+
+git merge nom_de_la_branche
+
+git log​ affiche la liste des commits effectués sur une branche ;
+
+git fetch récupère toutes les informations du dépôt distant et les stocke dans le dépôt local ;
+
+git push​ publie les nouvelles révisions sur le dépôt distant ;
+
+git pull​ récupère les dernières modifications distantes du projet et les fusionne dans la branche courante ;
+
+git tag liste ou crée des tags ;
+
+git stash​ stocke de côté un état non commité afin d’effectuer d’autres tâches.
